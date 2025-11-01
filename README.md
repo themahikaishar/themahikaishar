@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Mahi Kaishar</h1>
+<h1 align="center">Hi 👋, I'm Mahi Kaishar</h1>
 <h3 align="center">Software Engineer | Systems Programmer | Cross-Platform Developer 👨‍💻</h3>
 
 > 🛠 Crafting next level of software
