@@ -6,7 +6,7 @@
 >
 >
 >
-> ### 👉 **[VISIT MY NEW GITHUB →](github.com/imkoishor)**
+> ### 👉 **[VISIT MY NEW GITHUB →](https://github.com/imkoishor)**
 >
 > Please follow my new account for all future repositories, projects, and updates. ❤️
 
@@ -14,7 +14,7 @@
 
 #
 
-<h1 align="center">Hi 👋, I'm Mahi Kaishar</h1>
+<h1 align="center">Hi 👋, I'm Mahi Kaishar(Koishor)</h1>
 <h3 align="center">Software Engineer | Systems Programmer | Cross-Platform Developer 👨‍💻</h3>
 
 > 🛠 Crafting next level of software
@@ -116,9 +116,9 @@ All of my projects are available at [themahikaishar.com/projects](themahikaishar
 
 Feel free to reach out to me at [themahikaishar@gmail.com](mailto:themahikaishar@gmail.com) for collaboration, discussions, or just to geek out about the latest in tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themahikaishar)
-[![Instagram](https://img.shields.io/badge/Instagram-F50E70?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themahikaishar)
-[![Facebook](https://img.shields.io/badge/Facebook-1773EA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/themahikaishar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imkoishor)
+[![Instagram](https://img.shields.io/badge/Instagram-F50E70?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imkoishor)
+[![Facebook](https://img.shields.io/badge/Facebook-1773EA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imkoishor)
 
 
 #
