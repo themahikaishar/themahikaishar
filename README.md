@@ -1,3 +1,19 @@
+> # 🚨 **I'VE MOVED!**
+>
+> This GitHub account is **no longer active**.
+>
+> **All my new projects and future development are now on my new GitHub account.**
+>
+>
+>
+> ### 👉 **[VISIT MY NEW GITHUB →](github.com/imkoishor)**
+>
+> Please follow my new account for all future repositories, projects, and updates. ❤️
+
+#
+
+#
+
 <h1 align="center">Hi 👋, I'm Mahi Kaishar</h1>
 <h3 align="center">Software Engineer | Systems Programmer | Cross-Platform Developer 👨‍💻</h3>
 
